@@ -1,0 +1,7 @@
+{
+  "name": "AuthGuard Pro - 2FA & Security Suite",
+  "description": "A professional suite of 2FA tools including TOTP generators, QR scanners, password strength checkers, and security guides.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
